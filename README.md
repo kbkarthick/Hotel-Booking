@@ -2,7 +2,7 @@
 
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
-<img src="./https://graamoddhaarakendra.in/assets/img/pages/43_t8_07012001515751.jpg">
+<img src="https://graamoddhaarakendra.in/assets/img/pages/43_t8_07012001515751.jpg">
 
 ## Insights
 - Most guests came from contries Portugal,Britain,Spain and France.
